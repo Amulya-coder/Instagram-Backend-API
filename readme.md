@@ -2,7 +2,7 @@
 `go get`
 
 ## Run project
-go run main.go
+`go run main.go`
 
 ## User post controller:
 `Takes a json object and writes in mongo db with InsertOne`
